@@ -1,0 +1,13 @@
+svg{
+    border: 1px solid #ccc;
+    background-color: blanchedalmond;
+}
+
+.axis .domain{
+    stroke:none;
+}
+
+.x line{
+    stroke: blanchedalmond;
+}
+    
